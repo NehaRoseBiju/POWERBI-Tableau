@@ -1,0 +1,20 @@
+AUTOMATED MIS REPORT
+===================================
+Generated: 27-10-2026 19:11
+
+DATA QUALITY SUMMARY
+-------------------------
+             issue_type  issue_count
+     Duplicate order ID            2
+          Duplicate row            2
+Inconsistent formatting            2
+           Invalid date            1
+          Invalid price            1
+       Invalid quantity            1
+          Missing value            1
+     Unmatched customer            1
+
+REVENUE SUMMARY
+-------------------------
+ valid_order_rows  total_revenue
+               10       130900.0

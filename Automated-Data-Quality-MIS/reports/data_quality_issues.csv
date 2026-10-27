@@ -1,0 +1,12 @@
+order_id,column,issue_type,details
+O1003,all columns,Duplicate row,This row duplicates another complete row.
+O1003,all columns,Duplicate row,This row duplicates another complete row.
+O1003,order_id,Duplicate order ID,Order ID occurs more than once.
+O1003,order_id,Duplicate order ID,Order ID occurs more than once.
+O1005,customer_id,Missing value,customer_id is missing.
+O1008,order_date,Invalid date,Date is missing or cannot be interpreted.
+O1006,quantity,Invalid quantity,Quantity must be greater than zero.
+O1007,unit_price,Invalid price,Unit price must not be negative.
+O1009,region,Inconsistent formatting,Region has inconsistent capitalization or whitespace.
+O1010,region,Inconsistent formatting,Region has inconsistent capitalization or whitespace.
+O1011,customer_id,Unmatched customer,Customer ID does not exist in the customer master table.

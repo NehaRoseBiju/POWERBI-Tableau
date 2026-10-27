@@ -1,0 +1,14 @@
+
+order_id,customer_id,order_date,product,quantity,unit_price,region
+O1001,C101,2026-01-05,Laptop,1,45000,South
+O1002,C102,2026-01-06,Mouse,2,500,North
+O1003,C103,2026-01-07,Keyboard,1,1200,East
+O1003,C103,2026-01-07,Keyboard,1,1200,East
+O1004,C104,2026-01-08,Monitor,2,8500,West
+O1005,,2026-01-09,Mouse,3,500,South
+O1006,C106,2026-01-10,Laptop,0,45000,North
+O1007,C107,2026-01-11,Keyboard,2,-1200,East
+O1008,C108,invalid-date,Monitor,1,8500,West
+O1009,C109,2026-01-13,Mouse,4,500,south
+O1010,C110,2026-01-14,Laptop,1,45000, South 
+O1011,C999,2026-01-15,Monitor,1,8500,West
